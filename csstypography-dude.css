@@ -1,0 +1,17 @@
+p {
+    font-family: 'Maiden Orange', cursive;
+}
+
+.bubble1 { 
+    font-weight: bold;
+}
+
+.bubble2{
+    font-size:  24px;
+    font-weight: bolder;
+}
+
+.bubble3{
+    line-height: 50px;
+    color: red;
+}
